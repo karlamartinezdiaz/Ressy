@@ -1,0 +1,14 @@
+[
+  "test_camping.py::test_camping",
+  "test_camping.py::test_change_lot_size",
+  "test_hotel.py::test_hotel",
+  "test_reservation.py::test_reservation",
+  "test_restaraunt.py::test_add_allergies",
+  "test_restaraunt.py::test_restaraunt",
+  "test_restaraunt.py::test_restaurant",
+  "test_restaraunt.py::test_restaurant_initialization",
+  "test_venues.py::test_add_venue",
+  "test_venues.py::test_display_venue",
+  "test_venues.py::test_venue",
+  "test_venues.py::test_venue_initialization"
+]

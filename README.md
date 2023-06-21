@@ -1,0 +1,1 @@
+Program works with a binary search tree and sorts by venue name. To run the program you'll just need to run the main.py file and that works with all the other files the venues.py file is in progress that will serve to store venues from a .txt to work with the program instead of having to put them in one by one. 
